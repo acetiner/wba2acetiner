@@ -1,0 +1,15 @@
+{
+  "name": "workshop1wba2",
+  "version": "1.0.0",
+  "description": "wolkenkratzer ",
+  "main": "application.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Aziz Cetiner",
+  "license": "ISC",
+  "dependencies": {
+    "chalk": "^1.1.3",
+    "fs": "0.0.2"
+  }
+}
